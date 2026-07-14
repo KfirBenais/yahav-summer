@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "yahav-summer",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"],
+      "cwd": "C:\\Users\\kfir\\source\\repos\\yahav-summer",
+      "port": 5173
+    }
+  ]
+}
